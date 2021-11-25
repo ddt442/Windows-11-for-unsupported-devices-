@@ -9,7 +9,12 @@
 
 <br>
 <h1 align="center">How to install this version of Windows 11 on my computer?</h1>
-<h3>Downloading</h3>
-<ul><h4>
+<h3>Step by step:</h3>
+<ul>
   <li>Download .zip file, move it to your desktop, and unpack it.</li>
+  <li>Open downloaded folder, and start "setup.exe"</li>
+  <li>Choose the settings that are convenient for you</li>
+  <li>Windows 11 should start to install</li>
+</ul>
+  
   
