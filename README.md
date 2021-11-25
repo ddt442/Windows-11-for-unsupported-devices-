@@ -9,6 +9,6 @@
 
 <br>
 <h1 align="center">How to install this version of Windows 11 on my computer?</h1>
-<b>Downloading</b>
-<br>
-<a>Download .zip file, and unpack it</a>
+<ul><b>Downloading</b>
+  <li>Download .zip file, move it to your desktop, and unpack it.</li>
+  
