@@ -1,7 +1,7 @@
 <h1 align="center">Windows 11 for unsupported devices</h1>
 <h3>Downloading - Windows 11:</h3>
 <ul>
-  <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-"><b>Google Drive</b></li>
+  <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-">Google Drive</li>
 </ul>
 <br>
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
