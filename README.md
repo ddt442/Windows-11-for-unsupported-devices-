@@ -16,5 +16,8 @@
   <li>Choose the settings that are convenient for you</li>
   <li>Windows 11 should start to install</li>
 </ul>
-  
-  
+<br>
+
+
+<br>
+<h2>Great! Now you have installed Windows 11 on your computer :)</h2>
