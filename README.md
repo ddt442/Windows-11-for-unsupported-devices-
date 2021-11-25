@@ -5,4 +5,7 @@
 </ul>
 <a>Note: Windows 11 32bit does not exist</a>
 <a></a>
+<a></a>
+<a></a>
+<a></a>
 <h1 align="center">How to install this version of Windows 11 on my computer?</h1>
