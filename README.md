@@ -2,5 +2,5 @@
 <a>=== Select the system version:</a>
 <ul>
   <li><a href="">Windows 11 64bit</a></li>
-  <li><a href="">Windows 11 32bit [IN PROGRESS]</a></li>
+  <li>Windows 11 32bit [IN PROGRESS]</a></li>
 </ul>
