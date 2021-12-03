@@ -6,7 +6,7 @@
 </ul>
 <br>
 
-<h2 align="center">System Requirements: (Recommended)</h2>
+<h2 align="center">System Requirements: (Minimal)</h2>
 <ul>
   <li><b>Processor:</b> 1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC).</li>
   <li><b>Ram:</b> 4 GB</li>
