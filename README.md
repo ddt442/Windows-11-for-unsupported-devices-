@@ -18,7 +18,7 @@
 <p>(** An internet connection is required to configure the system)</p>
 
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
-  
+  <p>(** Please back up your data before upgrading the system. I am not responsible for the loss of files.)</p>
   <h3>If you're already have Windows 10</h3>
    <ol>  
      <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
