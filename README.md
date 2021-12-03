@@ -27,7 +27,7 @@
      <li>Windows 11 should start to install</li>
    </ol>
    
- <h3>If you're already have Windows Xp or Vista, 7, 8, 8.1:</h3>
+ <h3>If you're already have Windows 8.1 or less:</h3>
    <ol>  
      <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
      <li>Pack Windows11 folder to .iso file</li>
