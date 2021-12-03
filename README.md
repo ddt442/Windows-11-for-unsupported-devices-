@@ -1,7 +1,7 @@
 <h1 align="center">Windows 11 for unsupported devices</h1>
 
 <h3>About:</h3>
-<a>Hi, I have modified the Windows 11 installer so that it can be installed on older computers. I guarantee this installer is virus free</a>
+<a>Hi, I have modified the Windows 11 installer so that it can be installed on older computers.</a>
 <br>
 <h6>** Please back up your data before upgrading the system. I am not responsible for the loss of files.</h6>
 
