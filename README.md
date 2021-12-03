@@ -26,4 +26,4 @@
   <li>Windows 11 should start to install</li>
 </ol>
 
-<h3>Great! Now you have installed Windows 11 on unsupported computer :)</h3>
+<h3>Great! Now you have installed Windows 11 on unsupported device :)</h3>
