@@ -12,6 +12,7 @@
   <li>RAM: 4 GB</li>
   <li>Graphics card: DirectX 9 or later with WDDM 1.0 driver</li>
   <li>Display: High definition (720p) display that is greater than 9” diagonally, 8 bits per color channel.</li>
+  <li>Storage: 64 GB or larger storage device</li>
   </ul>
 
   <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
