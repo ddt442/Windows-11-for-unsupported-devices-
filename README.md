@@ -1,13 +1,14 @@
 <h1 align="center">Windows 11 for unsupported devices</h1>
 
 <h3>About:</h3>
-<a>Hi, I have modified the Windows 11 installer so that it can be installed on older computers.</a>
+<a>Hi. I have modified Windows 10 installer to install Windows 11 by changing install.esd to install.wim file, so Windows 11 can be installed on older computers.</a>
 <br>
 <h6>** Please back up your data before upgrading the system. I am not responsible for the loss of files.</h6>
 
 <h2>Downloading .rar file:</h2>
 <ul>
   <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-">Google Drive</li>
+  <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-">Microsoft OneDrive</li>
 </ul>
 <br>
 
