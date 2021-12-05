@@ -1,7 +1,5 @@
 <h1 align="center">Windows 11 for unsupported devices</h1>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
-
 <h3>About:</h3>
 <a>Hi. I have modified Windows 10 installer to install Windows 11 by changing install.esd to install.wim file, so Windows 11 can be installed on older computers.</a>
 <br>
