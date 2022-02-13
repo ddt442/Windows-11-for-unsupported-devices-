@@ -37,7 +37,7 @@
   <li><b>Storage:</b> 128 GB or larger storage device</li>
   </ul>
   
-<p>(** An internet connection is required to configure the system)</p>
+<h6>(** An internet connection is required to configure the system)</h6>
 
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
   <h3>If you're already have Windows 10</h3>
