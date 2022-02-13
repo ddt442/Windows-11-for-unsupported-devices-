@@ -17,13 +17,24 @@
 
 <br>
 
-<h2 align="center">System Requirements: (Minimal)</h2>
+<h2 align="center">System Requirements:</h2>
+<h4><b>=======Minimal=======</b></h4>
 <ul>
   <li><b>Processor:</b> 1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC).</li>
   <li><b>Ram:</b> 4 GB</li>
   <li><b>Graphics card:</b> DirectX 9 or later with WDDM 1.0 driver</li>
-  <li><b>Display:</b> High definition (720p) display that is greater than 9” diagonally, 8 bits per color channel.</li>
+  <li><b>Display:</b> 800x600</li>
   <li><b>Storage:</b> 64 GB or larger storage device</li>
+  </ul>
+
+<h4><b>=====Recommended=====</b></h4>
+
+<ul>
+  <li><b>Processor:</b> 2 gigahertz (GHz) or faster with 4 or more cores on a compatible 64-bit processor or System on a Chip (SoC).</li>
+  <li><b>Ram:</b> 8 GB</li>
+  <li><b>Graphics card:</b> DirectX 12 or later with WDDM 1.0 driver</li>
+  <li><b>Display:</b> HD (720p) or better display</li>
+  <li><b>Storage:</b> 128 GB or larger storage device</li>
   </ul>
   
 <p>(** An internet connection is required to configure the system)</p>
