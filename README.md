@@ -52,7 +52,7 @@
    <ol>  
      <li><a>Download Windows11.rar file, move it to your desktop, and unpack it.</a></li>
      <li>Open unpacked folder</li>
-     <li>Move files folder to your pendrive</li>
+     <li>Move files to your pendrive</li>
      <li>Restart the computer, open the boot device menu by pressing the F12 key and select USB Flash Drive. Windows 11 Installer should start</li>
      <li>Choose the settings that are convenient for you</li>
      <li>Installer should start to install Windows 11</li>
