@@ -7,7 +7,6 @@
 
 <h2>Downloading .rar file:</h2>
 <ul>
-  <li><a>Download from </a><a href="https://drive.google.com/u/0/uc?export=download&confirm=ZuoG&id=1jQdRmUnrm1aW3J2DSMfznMAXzO9ozzq-">Google Drive</li>
   <li><a>Download from </a><a href="https://1drv.ms/u/s!AuQL__qV6kxdgQC_gnK9S4U9oJ4a?e=xUTH4K">Microsoft OneDrive</li>
 </ul>
 <br>
